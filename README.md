@@ -1,14 +1,13 @@
 # bank-php
 
-FIXME: description
+Mi projecto de practica y aprendisaje con clojure sobre una app web bancaria
 
 ## Installation
 
-Download from http://example.com/FIXME.
+localhost:8080
 
 ## Usage
 
-FIXME: explanation
 
     $ java -jar bank-php-0.1.0-standalone.jar [args]
 
